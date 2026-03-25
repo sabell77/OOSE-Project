@@ -50,13 +50,16 @@ A comprehensive Point of Sale (POS) system built in Python that supports cashier
 
 ## 📁 Project Structure
 
-OOSE-Project/
-├── main.py # Main application entry point & UI logic
-├── database.py # Database schemas (users, products, coupons, sales)
-├── users.py # User classes (Cashier, Administrator)
-├── transactions.py # Transaction and product catalog classes
-├── payments.py # Payment processing classes
-└── README.md # Project documentation
+| File | Description |
+|------|-------------|
+| `main.py` | Main application entry point & UI logic |
+| `database.py` | Database schemas (users, products, coupons, sales) |
+| `users.py` | User classes (Cashier, Administrator) |
+| `transactions.py` | Transaction and product catalog classes |
+| `payments.py` | Payment processing classes |
+| `README.md` | Project documentation |
+
+All Python files are located in the root directory for easy access and execution.
 
 ## 🛠 Prerequisites
 
